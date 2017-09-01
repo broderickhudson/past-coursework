@@ -1,0 +1,5 @@
+Course ID, Course Designator, Course Number, Course Name, Section, Day, Time, Offering Period, Room Number, Enrollment Number, Instructor's Last Name, Instructor's First Name, Instructor Number, Dinosaurs, Rocky Balboa Fans, Koolaid Men
+001234, IT, 214, Fundamentals of Software Development, 01, MTWHF, 10:00-11:50, 5/16/2016-6/17/2016, WH284A, 20, Syed, Mahbub, 42, 1, 1, 1
+004321, IT, 350, Dank Memes and How They Saved My Life, 03, MTWHF, 10:00-11:00, 5/16/2016-6/17/2016, WH284B, 15, Joe, Shmoe, 55, 3, 2, 1
+123456, IT, 420, Swag and Why It's Great, 02, MWF, 11:00-11:50, 4/20/2016-4/21/2016, WH119, 55, Maryjane, Watson, 420, 2, 2, 2
+234567, IT, 520, Advanced Swag and Why It's Advanced, 02, MWF, 11:00-11:50, 4/20/2016-4/21/2016, WH119, 55, Maryjane, Watson, 420, 2, 2, 2

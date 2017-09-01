@@ -1,0 +1,5 @@
+Course ID, Instruction Type
+001234, Lec/Lab
+004321, Lec/Lab
+123456, Studio
+234567, Lec/Lab
