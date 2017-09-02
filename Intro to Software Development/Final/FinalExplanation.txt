@@ -1,0 +1,5 @@
+The final for this course was essentially to recreate SQL such that queries could be run against a specified file from the command line. It was a class project, and the tasks were broken down into methods by me and a classmate. I wrote the following files:
+
+-Condition
+-ConditionStatement
+-newDriver (co-wrote)
